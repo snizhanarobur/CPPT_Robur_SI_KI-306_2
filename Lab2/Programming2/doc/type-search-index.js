@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki306.robur.lab2","l":"ImageProcessor"},{"p":"ki306.robur.lab2","l":"Logger"},{"p":"ki306.robur.lab2","l":"Main"},{"p":"ki306.robur.lab2","l":"MemoryUnit"},{"p":"ki306.robur.lab2","l":"OpticalSystem"},{"p":"ki306.robur.lab2","l":"Scanner"}];updateSearchResults();
