@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki306.robur.lab4","l":"EquationsApp"},{"p":"ki306.robur.lab4","l":"ExpressionCalculator"}];updateSearchResults();
